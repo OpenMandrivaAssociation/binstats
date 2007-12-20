@@ -10,6 +10,7 @@ License: GPL
 Group: File tools
 URL: http://www.ccc.nottingham.ac.uk/~etzpc/binstats.html
 Source: %{name}-%{version}.tar.bz2
+Buildroot: %{_tmppath}/%{name}-buildroot
 
 %description
 An administration utility for tracking down the 
