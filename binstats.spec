@@ -1,6 +1,6 @@
 %define name binstats
 %define version 1.08
-%define release %mkrel 9
+%define release %mkrel 10
 
 Summary: An administration utility
 Name: %{name}
