@@ -8,7 +8,7 @@ Version: %{version}
 Release: %{release}
 License: GPL
 Group: File tools
-URL: http://www.ccc.nottingham.ac.uk/~etzpc/binstats.html
+URL: https://www.ccc.nottingham.ac.uk/~etzpc/binstats.html
 Source: %{name}-%{version}.tar.bz2
 Buildroot: %{_tmppath}/%{name}-buildroot
 
